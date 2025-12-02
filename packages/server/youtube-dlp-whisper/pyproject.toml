@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = "==3.14.0"
 dependencies = [
-    "fastapi==0.123.1",
+    "fastapi==0.123.2",
     "openai-whisper",
     "pydantic==2.12.5",
     "requests==2.32.5",
