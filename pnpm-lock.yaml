@@ -76,11 +76,11 @@ importers:
         specifier: 2.0.1
         version: 2.0.1
       prettier:
-        specifier: 3.7.3
-        version: 3.7.3
+        specifier: 3.7.4
+        version: 3.7.4
       prettier-plugin-tailwindcss:
         specifier: 0.7.2
-        version: 0.7.2(prettier@3.7.3)
+        version: 0.7.2(prettier@3.7.4)
       rimraf:
         specifier: 6.1.2
         version: 6.1.2
@@ -113,7 +113,7 @@ importers:
         version: 24.10.1
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.3)(webpack-cli@6.0.1)(webpack@5.103.0)
+        version: 3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.4)(webpack-cli@6.0.1)(webpack@5.103.0)
       copy-webpack-plugin:
         specifier: 13.0.1
         version: 13.0.1(webpack@5.103.0)
@@ -124,8 +124,8 @@ importers:
         specifier: 16.5.0
         version: 16.5.0
       prettier:
-        specifier: 3.7.3
-        version: 3.7.3
+        specifier: 3.7.4
+        version: 3.7.4
       rimraf:
         specifier: 6.1.2
         version: 6.1.2
@@ -173,7 +173,7 @@ importers:
         version: 24.10.1
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.3)(webpack-cli@6.0.1)(webpack@5.103.0)
+        version: 3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.4)(webpack-cli@6.0.1)(webpack@5.103.0)
       copy-webpack-plugin:
         specifier: 13.0.1
         version: 13.0.1(webpack@5.103.0)
@@ -184,8 +184,8 @@ importers:
         specifier: 16.5.0
         version: 16.5.0
       prettier:
-        specifier: 3.7.3
-        version: 3.7.3
+        specifier: 3.7.4
+        version: 3.7.4
       rimraf:
         specifier: 6.1.2
         version: 6.1.2
@@ -4502,8 +4502,8 @@ packages:
       prettier-plugin-svelte:
         optional: true
 
-  prettier@3.7.3:
-    resolution: {integrity: sha512-QgODejq9K3OzoBbuyobZlUhznP5SKwPqp+6Q6xw6o8gnhr4O85L2U915iM2IDcfF2NPXVaM9zlo9tdwipnYwzg==}
+  prettier@3.7.4:
+    resolution: {integrity: sha512-v6UNi1+3hSlVvv8fSaoUbggEM5VErKmmpGA7Pl3HF8V6uKY7rvClBOJlH6yNwQtfTueNkGVpOv/mtWL9L4bgRA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -7158,14 +7158,14 @@ snapshots:
       webpack: 5.103.0(webpack-cli@6.0.1)
       webpack-cli: 6.0.1(webpack@5.103.0)
 
-  '@webpack-cli/generators@3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.3)(webpack-cli@6.0.1)(webpack@5.103.0)':
+  '@webpack-cli/generators@3.0.7(@types/node@24.10.1)(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.7.4)(webpack-cli@6.0.1)(webpack@5.103.0)':
     dependencies:
       webpack: 5.103.0(webpack-cli@6.0.1)
       webpack-cli: 6.0.1(webpack@5.103.0)
       yeoman-environment: 3.19.3(@types/node@24.10.1)
       yeoman-generator: 5.10.0(encoding@0.1.13)(mem-fs@2.3.0)(yeoman-environment@3.19.3(@types/node@24.10.1))
     optionalDependencies:
-      prettier: 3.7.3
+      prettier: 3.7.4
     transitivePeerDependencies:
       - '@types/node'
       - bluebird
@@ -10776,11 +10776,11 @@ snapshots:
 
   prepend-http@2.0.0: {}
 
-  prettier-plugin-tailwindcss@0.7.2(prettier@3.7.3):
+  prettier-plugin-tailwindcss@0.7.2(prettier@3.7.4):
     dependencies:
-      prettier: 3.7.3
+      prettier: 3.7.4
 
-  prettier@3.7.3: {}
+  prettier@3.7.4: {}
 
   pretty-bytes@5.6.0: {}
 

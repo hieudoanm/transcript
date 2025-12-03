@@ -48,7 +48,7 @@
     "eslint": "9.39.1",
     "eslint-config-next": "16.0.6",
     "kill-port": "2.0.1",
-    "prettier": "3.7.3",
+    "prettier": "3.7.4",
     "prettier-plugin-tailwindcss": "0.7.2",
     "rimraf": "6.1.2",
     "tailwindcss": "4.1.17",
