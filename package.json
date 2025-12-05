@@ -27,7 +27,7 @@
     "docsify-cli": "4.4.4",
     "husky": "9.1.7",
     "rimraf": "6.1.2",
-    "turbo": "2.6.2"
+    "turbo": "2.6.3"
   },
   "packageManager": "pnpm@10.24.0"
 }
