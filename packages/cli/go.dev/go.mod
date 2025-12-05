@@ -5,7 +5,7 @@ go 1.25.4
 require (
 	github.com/kkdai/youtube/v2 v2.10.5
 	github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 )
 
 require (
