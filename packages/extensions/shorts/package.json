@@ -13,7 +13,7 @@
   "homepage": "https://github.com/hieudoanm/micro#readme",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io/)",
   "license": "GPL-3.0",
-  "packageManager": "pnpm@10.24.0",
+  "packageManager": "pnpm@10.25.0",
   "private": true,
   "scripts": {
     "prebuild": "rimraf dist download/*.zip && pnpm run lint && pnpm run format",
