@@ -1,5 +1,5 @@
 # Base image with Python 3.13.5 (or change to match your version)
-FROM python:3.14.1
+FROM python:3.14.2
 
 # Upgrade system packages to address vulnerabilities
 RUN apt-get update && apt-get install -y \
