@@ -33,7 +33,7 @@
     "@capacitor/core": "8.0.0",
     "@capacitor/ios": "8.0.0",
     "@tanstack/react-query": "5.90.12",
-    "next": "16.0.8",
+    "next": "16.0.9",
     "react": "19.2.1",
     "react-dom": "19.2.1"
   },
