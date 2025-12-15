@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     'mobile/**',
     'src-tauri/**',
     'next-env.d.ts',
+    'jest.config.ts',
+    'jest.setup.ts',
   ]),
 ]);
 
