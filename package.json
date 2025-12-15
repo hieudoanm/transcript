@@ -1,17 +1,17 @@
 {
-  "name": "yts",
+  "name": "@ytb/app",
   "version": "0.0.1",
-  "description": "yts",
+  "description": "ytb",
   "keywords": [
-    "yts"
+    "ytb"
   ],
-  "homepage": "https://github.com/hieudoanm/yts#readme",
+  "homepage": "https://hieudoanm.github.io/ytb",
   "bugs": {
-    "url": "https://github.com/hieudoanm/yts/issues"
+    "url": "https://github.com/hieudoanm/ytb/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/yts.git"
+    "url": "git+ssh://git@github.com/hieudoanm/ytb.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
