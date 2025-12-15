@@ -22,15 +22,13 @@
   "scripts": {
     "dev": "turbo run dev",
     "lint": "turbo run lint",
+    "test": "turbo run test",
     "build": "turbo run build",
-    "build:docs": "rimraf docs && docsify init ./docs && touch docs/.nojekyll",
     "format": "turbo run format",
     "prepare": "husky || true"
   },
   "devDependencies": {
-    "docsify-cli": "4.4.4",
     "husky": "9.1.7",
-    "rimraf": "6.1.2",
     "turbo": "2.6.3"
   }
 }
