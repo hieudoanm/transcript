@@ -139,8 +139,8 @@ importers:
         specifier: 9.39.2
         version: 9.39.2(jiti@2.6.1)
       globals:
-        specifier: 17.1.0
-        version: 17.1.0
+        specifier: 17.2.0
+        version: 17.2.0
       prettier:
         specifier: 3.8.1
         version: 3.8.1
@@ -199,8 +199,8 @@ importers:
         specifier: 9.39.2
         version: 9.39.2(jiti@2.6.1)
       globals:
-        specifier: 17.1.0
-        version: 17.1.0
+        specifier: 17.2.0
+        version: 17.2.0
       prettier:
         specifier: 3.8.1
         version: 3.8.1
@@ -251,8 +251,8 @@ importers:
         specifier: 9.39.2
         version: 9.39.2(jiti@2.6.1)
       globals:
-        specifier: 17.1.0
-        version: 17.1.0
+        specifier: 17.2.0
+        version: 17.2.0
       prettier:
         specifier: 3.8.1
         version: 3.8.1
@@ -3318,8 +3318,8 @@ packages:
     resolution: {integrity: sha512-ob/2LcVVaVGCYN+r14cnwnoDPUufjiYgSqRhiFD0Q1iI4Odora5RE8Iv1D24hAz5oMophRGkGz+yuvQmmUMnMw==}
     engines: {node: '>=18'}
 
-  globals@17.1.0:
-    resolution: {integrity: sha512-8HoIcWI5fCvG5NADj4bDav+er9B9JMj2vyL2pI8D0eismKyUvPLTSs+Ln3wqhwcp306i73iyVnEKx3F6T47TGw==}
+  globals@17.2.0:
+    resolution: {integrity: sha512-tovnCz/fEq+Ripoq+p/gN1u7l6A7wwkoBT9pRCzTHzsD/LvADIzXZdjmRymh5Ztf0DYC3Rwg5cZRYjxzBmzbWg==}
     engines: {node: '>=18'}
 
   globalthis@1.0.4:
@@ -9983,7 +9983,7 @@ snapshots:
 
   globals@16.4.0: {}
 
-  globals@17.1.0: {}
+  globals@17.2.0: {}
 
   globalthis@1.0.4:
     dependencies:
