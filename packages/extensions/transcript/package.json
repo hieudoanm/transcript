@@ -33,7 +33,7 @@
     "@types/firefox-webext-browser": "143.0.0",
     "@types/node": "25.3.3",
     "@webpack-cli/generators": "3.0.7",
-    "copy-webpack-plugin": "13.0.1",
+    "copy-webpack-plugin": "14.0.0",
     "eslint": "10.0.2",
     "globals": "17.4.0",
     "prettier": "3.8.1",
