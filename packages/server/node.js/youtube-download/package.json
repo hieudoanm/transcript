@@ -17,6 +17,9 @@
   "author": "",
   "license": "GPL-3.0",
   "packageManager": "pnpm@10.30.3",
+  "engines": {
+    "node": "25.7.0"
+  },
   "dependencies": {
     "@distube/ytdl-core": "4.16.12",
     "@types/express": "5.0.6",

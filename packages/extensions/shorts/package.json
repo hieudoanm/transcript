@@ -1,6 +1,7 @@
 {
   "name": "@ytb/shorts-extension",
   "version": "0.0.1",
+  "private": true,
   "description": "YouTube - Shorts - Extension",
   "main": "dist/background.js",
   "repository": {
@@ -14,7 +15,9 @@
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io/)",
   "license": "GPL-3.0",
   "packageManager": "pnpm@10.30.3",
-  "private": true,
+  "engines": {
+    "node": "25.7.0"
+  },
   "scripts": {
     "prebuild": "rimraf dist download/*.zip && pnpm run lint && pnpm run format",
     "build": "webpack --config webpack.config.ts",
