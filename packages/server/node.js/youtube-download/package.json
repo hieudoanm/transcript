@@ -1,6 +1,6 @@
 {
   "name": "youtube-download",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "format:check": "prettier --check ."
   },
   "keywords": [],
-  "author": "",
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
   "license": "GPL-3.0",
   "packageManager": "pnpm@10.31.0",
   "engines": {
