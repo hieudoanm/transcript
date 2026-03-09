@@ -29,7 +29,7 @@
     "postbuild": "touch ../../docs/.nojekyll",
     "prestart": "kill-port 3000",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint . --fix"
   },
   "dependencies": {
     "@capacitor/android": "8.2.0",

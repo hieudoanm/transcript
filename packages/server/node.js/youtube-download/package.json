@@ -8,9 +8,8 @@
     "prebuild": "rimraf -rf dist",
     "build": "tsc",
     "start": "npm run build && node dist/server.js",
-    "lint": "eslint . --ext .ts",
-    "lint:fix": "eslint . --ext .ts --fix",
-    "format": "prettier --write .",
+    "lint": "eslint . --fix",
+    "format": "prettier --cache --write .",
     "format:check": "prettier --check ."
   },
   "keywords": [],
