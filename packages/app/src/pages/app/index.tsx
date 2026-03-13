@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
 
-const HomePage: NextPage = () => {
+const AppPage: NextPage = () => {
   return (
     <div className="flex min-h-screen flex-col">
       <div className="navbar">
@@ -31,4 +31,4 @@ const HomePage: NextPage = () => {
   );
 };
 
-export default HomePage;
+export default AppPage;
