@@ -1,6 +1,6 @@
 module youtube-cli
 
-go 1.25.4
+go 1.26.1
 
 require (
 	github.com/kkdai/youtube/v2 v2.10.5
