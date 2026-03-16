@@ -41,8 +41,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
         <meta name="twitter:image" content="/favicon.png" />
       </Head>
       <QueryClientProvider client={new QueryClient()}>
-        <div
-          className={`${geistSans.className} ${geistMono.className} bg-neutral-900 text-neutral-100`}>
+        <div className={`${geistSans.className} ${geistMono.className}`}>
           <Component {...pageProps} />
         </div>
       </QueryClientProvider>
