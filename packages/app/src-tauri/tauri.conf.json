@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "identifier": "io.github.hieudoanm.ytb",
   "build": {
-    "frontendDist": "../../docs",
+    "frontendDist": "../../../docs",
     "devUrl": "http://localhost:3000",
     "beforeDevCommand": "pnpm dev",
     "beforeBuildCommand": "pnpm build"
