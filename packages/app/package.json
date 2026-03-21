@@ -2,9 +2,9 @@
   "name": "@transcript/app",
   "version": "0.0.1",
   "private": true,
-  "description": "YouTube",
+  "description": "Transcript",
   "keywords": [
-    "youtube"
+    "transcript"
   ],
   "homepage": "https://hieudoanm.github.io/transcript",
   "bugs": {
