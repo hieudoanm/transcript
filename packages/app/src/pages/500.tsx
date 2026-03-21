@@ -1,4 +1,4 @@
-import { ErrorTemplate } from '@ytb/templates/ErrorTemplate';
+import { ErrorTemplate } from '@transcript/templates/ErrorTemplate';
 import { NextPage } from 'next';
 
 const messages = [

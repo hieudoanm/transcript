@@ -1,7 +1,7 @@
 import {
   LandingContent,
   LandingTemplate,
-} from '@ytb/templates/LandingTemplate';
+} from '@transcript/templates/LandingTemplate';
 import { NextPage } from 'next';
 
 const content: LandingContent = {

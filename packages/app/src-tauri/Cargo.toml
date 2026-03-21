@@ -1,10 +1,10 @@
 [package]
-name = "ytb"
+name = "transcript"
 version = "0.0.1"
-description = "YouTube"
+description = "Transcript"
 authors = ["hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)"]
 license = "GPT-3.0"
-repository = "git+ssh://git@github.com/hieudoanm/ytb.git"
+repository = "git+ssh://git@github.com/hieudoanm/transcript.git"
 edition = "2021"
 rust-version = "1.77.2"
 

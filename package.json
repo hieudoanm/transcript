@@ -1,17 +1,17 @@
 {
-  "name": "@ytb/workspaces",
+  "name": "@transcript/workspaces",
   "version": "0.0.1",
-  "description": "ytb",
+  "description": "transcript",
   "keywords": [
-    "ytb"
+    "transcript"
   ],
-  "homepage": "https://hieudoanm.github.io/ytb",
+  "homepage": "https://hieudoanm.github.io/transcript",
   "bugs": {
-    "url": "https://github.com/hieudoanm/ytb/issues"
+    "url": "https://github.com/hieudoanm/transcript/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/ytb.git"
+    "url": "git+ssh://git@github.com/hieudoanm/transcript.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",

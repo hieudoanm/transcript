@@ -1,5 +1,5 @@
+import { VersionTemplate } from '@transcript/templates/VersionTemplate';
 import { GetStaticProps, NextPage } from 'next';
-import { VersionTemplate } from '@ytb/templates/VersionTemplate';
 
 type Props = {
   version: string;
