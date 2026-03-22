@@ -11,9 +11,7 @@
 ## 📦 Installation
 
 ```bash
-curl -fsSL https://github.com/hieudoanm/transcript/raw/refs/heads/master/packages/cli/bin/transcript -o transcript
-chmod +x transcript
-sudo mv transcript /usr/local/bin/
+curl -fsSL https://raw.githubusercontent.com/hieudoanm/transcript/master/packages/cli/scripts/install.sh | bash
 ```
 
 ## 🚀 Usage
