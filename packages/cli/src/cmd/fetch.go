@@ -20,7 +20,7 @@ var (
 
 var fetchCmd = &cobra.Command{
 	Use:   "fetch <video-id-or-url>",
-	Short: "Fetch transcript for a YouTube video",
+	Short: "Run the fetch operation for the transcript app",
 	Args:  cobra.ExactArgs(1),
 	RunE: func(cmd *cobra.Command, args []string) error {
 		videoID := extractVideoID(args[0])
