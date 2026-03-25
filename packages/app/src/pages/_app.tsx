@@ -1,8 +1,8 @@
 import '@transcript/styles/globals.css';
+import { HeadTemplate } from '../templates/HeadTemplate';
 import { QueryClientProvider, QueryClient } from '@tanstack/react-query';
 import type { AppProps } from 'next/app';
 import { Geist, Geist_Mono } from 'next/font/google';
-import Head from 'next/head';
 import { FC } from 'react';
 
 const geistSans = Geist({
@@ -18,13 +18,7 @@ const geistMono = Geist_Mono({
 const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
-      <Head>
-        <title>Transcript</title>
-        <meta charSet="utf-8" />
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="manifest" href="/manifest.json" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </Head>
+      <HeadTemplate basic={{ title: 'Transcript' }} />
       <QueryClientProvider client={new QueryClient()}>
         <div className={`${geistSans.className} ${geistMono.className}`}>
           <Component {...pageProps} />
