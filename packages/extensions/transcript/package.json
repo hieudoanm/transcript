@@ -29,7 +29,7 @@
     "@eslint/js": "10.0.1",
     "@eslint/json": "1.2.0",
     "@eslint/markdown": "8.0.1",
-    "@types/chrome": "0.1.39",
+    "@types/chrome": "0.1.40",
     "@types/firefox-webext-browser": "143.0.0",
     "@types/node": "25.5.2",
     "@webpack-cli/generators": "3.0.7",
