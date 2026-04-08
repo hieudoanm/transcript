@@ -3,7 +3,7 @@ name = "youtube-transcript-summarizer-flask"
 version = "0.0.1"
 description = "Add your description here"
 readme = "README.md"
-requires-python = "==3.14.3"
+requires-python = "==3.14.4"
 dependencies = [
     "flasgger==0.9.7.1",
     "flask==3.1.3",
