@@ -31,7 +31,7 @@
     "@eslint/markdown": "8.0.1",
     "@types/chrome": "0.1.40",
     "@types/firefox-webext-browser": "143.0.0",
-    "@types/node": "25.5.2",
+    "@types/node": "25.6.0",
     "@webpack-cli/generators": "3.0.7",
     "copy-webpack-plugin": "14.0.0",
     "eslint": "10.2.0",
