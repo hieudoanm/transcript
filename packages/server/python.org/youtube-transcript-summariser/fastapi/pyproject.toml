@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = "==3.14.4"
 dependencies = [
-    "fastapi==0.135.3",
+    "fastapi==0.136.0",
     "pydantic==2.13.1",
     "requests==2.33.1",
     "youtube-transcript-api==1.2.4",
