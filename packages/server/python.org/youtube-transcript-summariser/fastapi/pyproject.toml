@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = "==3.14.4"
 dependencies = [
     "fastapi==0.136.0",
-    "pydantic==2.13.1",
+    "pydantic==2.13.2",
     "requests==2.33.1",
     "youtube-transcript-api==1.2.4",
 ]
